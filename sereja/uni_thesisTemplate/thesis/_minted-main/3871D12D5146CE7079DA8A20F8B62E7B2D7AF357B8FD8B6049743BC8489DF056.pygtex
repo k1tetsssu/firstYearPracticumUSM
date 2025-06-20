@@ -1,0 +1,10 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{\PYGZbs{}documentclass}\PYG{n+na}{[a4paper,12pt]}\PYG{n+nb}{\PYGZob{}}report\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}usepackage}\PYG{n+na}{[utf8]}\PYG{n+nb}{\PYGZob{}}inputenc\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}usepackage}\PYG{n+na}{[russian]}\PYG{n+nb}{\PYGZob{}}babel\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}document\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}chapter}\PYG{n+nb}{\PYGZob{}}Пример главы\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}section}\PYG{n+nb}{\PYGZob{}}Введение\PYG{n+nb}{\PYGZcb{}}
+Пример параграфа.
+\PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}document\PYG{n+nb}{\PYGZcb{}}
+\end{Verbatim}

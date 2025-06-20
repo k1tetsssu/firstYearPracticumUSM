@@ -1,0 +1,40 @@
+\xpginauxfiletrue 
+\selectlanguage *{russian}
+\contentsline {chapter}{\introLabelUpper }{3}{chapter*.2}%
+\contentsline {chapter}{\numberline {I}Система вёрстки \LaTeX {} и её применение}{6}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Введение в \LaTeX {}}{6}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Установка WSL и \LaTeX {} на Windows}{6}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Базовый синтаксис \LaTeX {}}{7}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Выводы и актуальность использования \LaTeX {}}{8}{section.1.4}%
+\contentsline {chapter}{\numberline {II}Изучение Git и работы с ветками на платформе LearnGitBranching}{9}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Введение}{9}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Урок 1. Коммиты в Git}{9}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Урок 2. Ветвление в Git}{10}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Урок 3. Ветки и слияния}{11}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Урок 4. Git Rebase}{12}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Урок 5. Прогулка по Git и указатель HEAD}{14}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Урок 6. Относительные ссылки в Git}{15}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Урок 7. Оператор \texttt {\~{}} и перемещение ветки (branch forcing)}{16}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Урок 8. Отмена изменений в Git}{17}{section.2.9}%
+\contentsline {section}{\numberline {2.10}Урок 9. Git Cherry-pick}{19}{section.2.10}%
+\contentsline {section}{\numberline {2.11}Урок 10. Git Interactive Rebase}{20}{section.2.11}%
+\contentsline {section}{\numberline {2.12}Урок 11. Выборочное извлечение нужного коммита}{22}{section.2.12}%
+\contentsline {section}{\numberline {2.13}Урок 12. Жонглируем коммитами}{22}{section.2.13}%
+\contentsline {section}{\numberline {2.14}Урок 13. Жонглируем коммитами №2 (через \texttt {cherry-pick})}{24}{section.2.14}%
+\contentsline {section}{\numberline {2.15}Урок 14. Теги в Git}{25}{section.2.15}%
+\contentsline {section}{\numberline {2.16}Урок 15. Команда \texttt {git describe}}{26}{section.2.16}%
+\contentsline {section}{\numberline {2.17}Урок 16. Rebase на нескольких ветках}{27}{section.2.17}%
+\contentsline {section}{\numberline {2.18}Урок 17. Определение родителей коммита}{29}{section.2.18}%
+\contentsline {section}{\numberline {2.19}Урок 18. Спутанные ветки}{30}{section.2.19}%
+\contentsline {section}{\numberline {2.20}Урок 19. Удалённые репозитории в Git}{32}{section.2.20}%
+\contentsline {section}{\numberline {2.21}Урок 20. Удалённые ветки в Git}{33}{section.2.21}%
+\contentsline {section}{\numberline {2.22}Урок 21. Git Fetch}{34}{section.2.22}%
+\contentsline {section}{\numberline {2.23}Урок 22. Git Pull}{35}{section.2.23}%
+\contentsline {section}{\numberline {2.24}Урок 23. Симуляция совместной работы}{36}{section.2.24}%
+\contentsline {section}{\numberline {2.25}Урок 24. Git Push}{37}{section.2.25}%
+\contentsline {section}{\numberline {2.26}Урок 25. Когда наработки расходятся}{38}{section.2.26}%
+\contentsline {section}{\numberline {2.27}Урок: Remote Rejected!}{39}{section.2.27}%
+\contentsline {section}{\numberline {2.28}Выводы для главы 2\relax }{39}{section.2.28}%
+\contentsline {chapter}{\numberline {III}Практическое погружение в Git: Git Immersion}{41}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Lab 1: Настройка Git и Ruby}{41}{section.3.1}%
+\xpginauxfilefalse 
